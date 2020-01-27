@@ -1,2 +1,2 @@
-# Html5 Video Wached Time
-Html5 Video Wached Time
+# Html5 Video Watched Time
+Html5 Video Watched Time
